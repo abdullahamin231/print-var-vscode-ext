@@ -40,14 +40,14 @@ my_var = result(
 println("my_var = $my_var");
 ```
 
+## Todo
+
+- [ ] Add support for more languages.
+
 ## Support
 
-If you have any issues or feature requests, please feel free to open an issue on the [GitHub repository](link-to-repository).
+If you have any issues or feature requests, please feel free to open an issue on the [GitHub repository](https://github.com/abdullahamin231/print-var-vscode-ext).
 
 ## License
 
 This extension is licensed under the MIT License.
-
----
-
-Feel free to modify it based on your specific needs or any additional functionality your extension might have!
