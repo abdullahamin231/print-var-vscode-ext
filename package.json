@@ -1,7 +1,7 @@
 {
-  "name": "print-var",
-  "displayName": "print-var",
-  "description": "Prints the variable under the cursor using a keybinding, automatically inserting a println() statement",
+  "name": "variable-printer",
+  "displayName": "Variable Printer",
+  "description": "Prints the variable under the cursor, automatically inserting a print statement",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "print-var.log",
-        "title": "(print-var): Insert print() statement"
+        "title": "(Variable Printer): Print this variable"
       }
     ]
   },
